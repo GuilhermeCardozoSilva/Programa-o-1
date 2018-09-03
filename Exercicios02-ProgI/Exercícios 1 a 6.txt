@@ -1,0 +1,3 @@
+1. Em relação aos conceitos de Classificação e Instanciação, qual a diferença entre os conceitos e explique o que seria uma instância.
+O conceito classificação diz respeito ao momento que identificamos um conjunto de características comuns a todos os objetos e o definimos a qual classe pertence. Já o conceito instanciação significa criar um objeto englobando todas as características de uma classe.
+
