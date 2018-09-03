@@ -1,3 +1,30 @@
 1. Em relação aos conceitos de Classificação e Instanciação, qual a diferença entre os conceitos e explique o que seria uma instância.
 O conceito classificação diz respeito ao momento que identificamos um conjunto de características comuns a todos os objetos e o definimos a qual classe pertence. Já o conceito instanciação significa criar um objeto englobando todas as características de uma classe.
 
+2. Qual é a diferença entre classe e objeto?
+Uma classe descreve de maneira abstrata todos os objetos de um tipo particular. Os objetos são criados a partir de uma classe. A classe descreve o tipo de objeto, quais atributos e métodos possui. Por exemplo, uma receita de um bolo é uma classe, ela descreve como será realizado o procedimento para a fazer o bolo. Através dela é possível saber quais igredientes (atributos) usaremos e qual é o modo de preparo (método) do bolo. O bolo por sua vez, é o objeto, ou seja, ele é criado a partir da receita.
+
+3. Para que servem atributos e métodos?
+Os atributos servem para representar os dados que cada objeto da classe irá guardar. Cada objeto terá um valor específico para cada atributo. Os métodos servem para demostrar o que meu objeto é capaz de fazer, através de conjuntos de comandos (instruções).
+
+4. Observe os objetos a sua volta, escolha um deles e descreva de 3 a 5 características
+(atributos) e comportamentos (métodos).
+Notebook.
+Atributos: marca; processador; tamanho do display; cor; quantidade de memória ram.
+Métodos: acessar a internet; rodar jogos; armazenar meus arquivos; reproduzir vídeos.
+
+5. Dois objetos de uma mesma classe, são “IGUAIS”? Dê sua opinião e explique por quê.
+Na maioria dos casos não, pois quando se cria objetos herdados de uma mesma classe é para cada um ter características próprias. Por exemplo, eu tenho uma classe aluno com os seguintes atributos: nome, matricula. Se eu criar dois objetos dessa classe, logicamente irei cadastrar dois alunos distintos, como nomes e matriulas distintas. Por conta diss, minha opinião é que dois objetos de uma mesma classe não são iguais. Eles apenas herdam características iguais, que serão "alimentadas" com dados distintos.
+
+6.  Livro, Celular, Mamífero, Ave e Flor;
+>Livro<
+Classe
+-> Título: 
+-> Autor:
+-> Editora:
+-> Ano publicação:
+Objetos
+Título: Há poder em suas palavras
+Autor: Don Gossett
+Editora: Vida
+Ano publicação: 1976
