@@ -24,7 +24,76 @@ Classe
 -> Editora:
 -> Ano publicação:
 Objetos
+Livro 1 
 Título: Há poder em suas palavras
 Autor: Don Gossett
 Editora: Vida
-Ano publicação: 1976
+Ano da edição: 2017
+Livro 2
+Título: Vivendo na palavra
+Autor: Norman Geisler
+Editora: Vida
+Ano publicação: 2006
+>Celular<
+Classe
+-> Marca:
+-> Modelo:
+-> Preço:
+-> Tamanho da tela:
+Objetos
+Celular 1
+Marca: Asus
+Modelo: Zenfone 5
+Preço: R$ 1.935,00
+Tamanho da tela: 6.2'
+Celular 2
+Marca: Apple
+Modelo: iPhone X
+Preço: R$ 5.199,00
+Tamanho da tela: 5.8'
+>Mamífero<
+-> espécie:
+-> cor:
+-> peso:
+-> comprimento:
+Objetos
+Mamífero 1
+Espécie: Onça-Pintada
+Cor: amarelo-claro
+Peso: 120kg
+Comprimento: 1,9m
+Mamífero 2
+Espécie: cachorro
+Cor: branca
+Peso: 1,2kg
+Comprimento: 30cm
+>Ave<
+-> espécie:
+-> cor:
+-> peso:
+-> altura:
+Ave 1
+Espécie: arara-azul
+Cor: azul né kkkk
+Peso: 1,5kg
+Altura: 1,5m
+Ave 2
+Espécie: tucano
+Cor: preta
+Peso: 1,0kg
+Altura: 61cm
+>Flor<
+-> espécie:
+-> cor:
+-> estação:
+-> cheiro:
+Flor 1
+Espécie: Rosa
+Cor: Rosa
+Estação: maio
+Cheiro: adocicada
+Flor 2
+Espécie: Girassol
+Cor: Amarela
+Estação: Agosto
+Cheiro: sem cheiro 
